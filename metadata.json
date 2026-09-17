@@ -1,0 +1,6 @@
+{
+  "name": "Veridian Corp IT Service Portal",
+  "description": "Enterprise Internal IT Service Portal grounded in Veridian Corp policies and ticket history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

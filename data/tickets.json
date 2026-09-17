@@ -1,0 +1,92 @@
+[
+  {
+    "ticketId": "TK-1042",
+    "employee": "R. Verma",
+    "issueSummary": "VPN credential expired",
+    "status": "Resolved (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-02",
+    "resolutionNotes": "Credentials refreshed in portal; 90-day renewal cycle applied as per KB-02."
+  },
+  {
+    "ticketId": "TK-1043",
+    "employee": "S. Iyer",
+    "issueSummary": "Laptop replacement (3.2 yrs old)",
+    "status": "Approved — pending fulfillment (active)",
+    "isActive": true,
+    "relatedPolicyId": "KB-03",
+    "resolutionNotes": "Laptop is >3 years old (eligible under KB-03). Awaiting stock and dispatch under 2-week lead time."
+  },
+  {
+    "ticketId": "TK-1044",
+    "employee": "A. Khan",
+    "issueSummary": "Non-catalog software request",
+    "status": "Pending Security review (active)",
+    "isActive": true,
+    "relatedPolicyId": "KB-04",
+    "resolutionNotes": "Submitted to IT Security review queue; estimated 3–5 business days turnaround."
+  },
+  {
+    "ticketId": "TK-1045",
+    "employee": "P. Joshi",
+    "issueSummary": "Mailbox quota increase",
+    "status": "Approved at 35GB (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-06",
+    "resolutionNotes": "Manager approval received; quota expanded to 35GB (within 50GB cap)."
+  },
+  {
+    "ticketId": "TK-1046",
+    "employee": "M. Das",
+    "issueSummary": "Printer paper jam, floor 2",
+    "status": "Resolved (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-05",
+    "resolutionNotes": "Print spooler restarted and physical roller cleared by local support technician."
+  },
+  {
+    "ticketId": "TK-1047",
+    "employee": "K. Singh",
+    "issueSummary": "Home office equipment request",
+    "status": "Pending Finance (active)",
+    "isActive": true,
+    "relatedPolicyId": "KB-10",
+    "resolutionNotes": "Manager sign-off confirmed; awaiting Finance processing before IT ships equipment."
+  },
+  {
+    "ticketId": "TK-1048",
+    "employee": "T. Rao",
+    "issueSummary": "Phishing email reported",
+    "status": "Escalated to Security — under investigation (active)",
+    "isActive": true,
+    "relatedPolicyId": "KB-09",
+    "resolutionNotes": "Reported to security@veridian-corp.example; headers extracted, mailbox protected."
+  },
+  {
+    "ticketId": "TK-1049",
+    "employee": "V. Nambiar",
+    "issueSummary": "Password reset",
+    "status": "Resolved (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-01",
+    "resolutionNotes": "Account locked after 5 failed attempts; manual unlock performed by IT without approval."
+  },
+  {
+    "ticketId": "TK-1050",
+    "employee": "J. Fernandes",
+    "issueSummary": "Admin access request",
+    "status": "Rejected — no business justification provided (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-08",
+    "resolutionNotes": "Elevated server access rejected due to lack of required business justification and approval."
+  },
+  {
+    "ticketId": "TK-1051",
+    "employee": "L. Menon",
+    "issueSummary": "Guest Wi-Fi issued",
+    "status": "Resolved (closed)",
+    "isActive": false,
+    "relatedPolicyId": "KB-07",
+    "resolutionNotes": "Directed to front-desk kiosk for 24-hour visitor voucher; no ticket required."
+  }
+]
